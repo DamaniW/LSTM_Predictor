@@ -10,8 +10,8 @@ Once the building, training, and testing proceedures have been successfully comp
 
 ### Fear and Greed Index (FNG) Model
 
-![alt text](https://github.com/DamaniW/LSTM_Predictor/blob/main/FNG_model.png?raw=true)
+![alt text](https://github.com/DamaniW/LSTM_Predictor/blob/main/Images/FNG_model.png?raw=true)
 
 ### Closing Price Model
 
-![alt text](https://github.com/DamaniW/LSTM_Predictor/blob/main/Close_model.png?raw=true)
+![alt text](https://github.com/DamaniW/LSTM_Predictor/blob/main/Images/Close_model.png?raw=true)
